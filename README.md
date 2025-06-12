@@ -15,7 +15,7 @@
 - **📝 Notes Section:** A quick and easy way to capture ideas and reflections with Markdown support.
 - **📅 Daily Planner:** Track daily tasks with a productivity score system to stay motivated.
 - **🖼️ Media Gallery:** A dedicated space to upload and view project-related media.
-- [cite_start]**📄 Interactive Resume:** A live, responsive resume section with downloadable certifications. 
+- **📄 Interactive Resume:** A live, responsive resume section with downloadable certifications. 
 - **🔗 Public Recruiter View:** A shareable, public-facing page that showcases my public projects and achievements.
 
 ---
