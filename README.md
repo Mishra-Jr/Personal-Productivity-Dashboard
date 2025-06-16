@@ -1,7 +1,8 @@
 # 🤖 Personal-Productivity-Dashboard
-
 <p align="center">
-  <img src="URL_TO_YOUR_DEMO_GIF_HERE" alt="Project Demo GIF">
+  <a href="https://github.com/Mishra-Jr/Personal-Productivity-Dashboard/blob/main/Untitled%20video%20(5).mp4">
+    <img src="https://github.com/Mishra-Jr/Personal-Productivity-Dashboard/raw/main/Screenshot%202025-06-16%20154900.png" alt="Click to Watch Project Demo Video">
+  </a>
 </p>
 
 > A personal command center built with React & Tailwind CSS to manage projects, tasks, and professional growth. This dashboard is my all-in-one solution for staying organized, tracking my progress, and showcasing my work.
